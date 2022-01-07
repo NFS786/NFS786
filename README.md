@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Nafisur rahman 
-- 👀 I’m interested in Android app development
-- 🌱 I’m currently learning Java & kotlin
+- 👋 Hi, I’m @Nafisur Rahman 
+- 👀 I’m interested in Game Development
+- 
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (rahman.nafis02@gmail.com)
 <!---
