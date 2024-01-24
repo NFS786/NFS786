@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nafisur Rahman 
-- 👀 I’m interested in Game Development
+- 👀 Unreal Engine 
 - 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++ and Blueprint
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (rahman.nafis02@gmail.com)
 <!---
